@@ -1,6 +1,3 @@
-Tabii ki, emoji eklemek projenizi daha eğlenceli ve görsel açıdan çekici hale getirebilir. İşte emoji kullanarak güncellenmiş bir GitHub açıklama örneği:
-
----
 
 # 🚀 Hareketli Sayfa
 
